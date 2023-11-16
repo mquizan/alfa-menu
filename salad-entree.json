@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category": "EntreeSalads-1",
+        "title": "Fajita Chicken Tostada Salad",
+        "descriptions": "Fajita chicken, crisp greens, Spanish rice and beans, bell \npeppers, topped with fresh Pico de Gallo, cheddar & Jack cheeses, guacamole and sour cream. Served in a tortilla \ntostada bowl with a spicy chipotle ranch dressing and \npicante salsa",
+        "serving": "",
+        "calories": 1627,
+        "allergens": "     ",
+        "price": 59,
+        "remarks": "",
+        "images": "Fajita Chicken Tostada Salad 1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "EntreeSalads-2",
+        "title": "Char-Grilled Chicken Caesar Salad",
+        "descriptions": "Char-grilled chicken breast, parmesan cheese \nand croutons served atop crisp romaine lettuce, \ntossed with our homemade caesar dressing.",
+        "serving": "",
+        "calories": 1025,
+        "allergens": "     ",
+        "price": 59,
+        "remarks": "",
+        "images": "Char-Grilled Chicken Caesar Salad 1.jpg"
+    }
+]

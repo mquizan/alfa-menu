@@ -1,4 +1,5 @@
-    {
+[
+{
         "id": 1,
         "category": "appetizers-1",
         "title": "Truffle Wagyu Steak Strips",
@@ -142,3 +143,4 @@
         "remarks": "",
         "images": "Homemade Golden Shrimp 1.jpg"
     }
+]
